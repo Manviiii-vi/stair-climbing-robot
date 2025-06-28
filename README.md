@@ -81,7 +81,7 @@ You can also check out the video demonstration linked above for a working overvi
 
 ---
 
-## 📁 Folder Structure (To Be Updated)
+## 📁 Folder Structure 
 ```
 stair-climbing-robot/
 ├── code/
