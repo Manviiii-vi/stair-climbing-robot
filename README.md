@@ -88,6 +88,7 @@ stair-climbing-robot/
 ├── images/
 ├── hardware/
 ├── docs/
+├──idea/
 ├── README.md
 ```
 
